@@ -1,2 +1,3 @@
 # hello-world
-学习库
+学习a库
+GitHub Study
